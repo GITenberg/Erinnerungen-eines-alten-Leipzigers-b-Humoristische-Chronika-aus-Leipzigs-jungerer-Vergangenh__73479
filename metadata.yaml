@@ -1,0 +1,38 @@
+_repo: Erinnerungen-eines-alten-Leipzigers-b-Humoristische-Chronika-aus-Leipzigs-jungerer-Vergangenh__73479
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Wolff, Richard
+    gutenberg_agent_id: '57092'
+    url: http://www.gutenberg.org/2009/agents/57092
+creator:
+  author:
+    agent_name: Lippold, Adolf
+    birthdate: 1815
+    deathdate: 1895
+    gutenberg_agent_id: '57091'
+    url: http://www.gutenberg.org/2009/agents/57091
+description: ''
+gutenberg_issued: '2024-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73479'
+language: de
+pgterms:marc905: 20210327090605lippold
+pgterms:marc906: '1893'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bVerlag von Otto Lenz, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lippold, Adolf, 1815-1895'
+- !lcsh 'Leipzig (Germany) -- Biography'
+- !lcsh 'Leipzig (Germany) -- History -- 19th century'
+- !lcsh 'Leipzig (Germany) -- Social conditions -- 19th century'
+- !lcc 'DD'
+- GITenberg
+title: 'Erinnerungen eines alten Leipzigers : $b Humoristische Chronika aus Leipzigs
+  jüngerer Vergangenheit'
+url: http://www.gutenberg.org/ebooks/73479
