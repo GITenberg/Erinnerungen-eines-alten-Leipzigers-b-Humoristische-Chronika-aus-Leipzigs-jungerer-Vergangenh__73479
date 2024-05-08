@@ -5,6 +5,9 @@ contributor:
     agent_name: Wolff, Richard
     gutenberg_agent_id: '57092'
     url: http://www.gutenberg.org/2009/agents/57092
+covers:
+- cover_type: archival
+  image_path: 73479-h/images/cover.jpg
 creator:
   author:
     agent_name: Lippold, Adolf
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '57091'
     url: http://www.gutenberg.org/2009/agents/57091
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73479#Erinnerungen-eines-alten-Leipzigers-b-Humoristische-Chronika-aus-Leipzigs-jungerer-Vergangenh_
 gutenberg_issued: '2024-04-27'
 gutenberg_type: Text
 identifiers:
